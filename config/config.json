@@ -1,0 +1,6 @@
+{
+	"minify_css": {
+		"read_dir": "<styles_dir>",
+		"build_dir": "<build_directory>"
+	}
+}
